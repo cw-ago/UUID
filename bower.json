@@ -1,0 +1,8 @@
+{
+  "name": "UUID.js",
+  "authors": [
+    "LiosK"
+  ],
+  "version": "3.2",
+  "main": "dist/uuid.core.js"
+}
